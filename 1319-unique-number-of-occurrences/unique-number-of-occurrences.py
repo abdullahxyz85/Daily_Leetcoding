@@ -6,9 +6,9 @@ class Solution:
                 int_count[count] += 1
             else:
                 int_count[count] = 1
-        occurrences = list(int_count.values())
-        for i in range(len(occurrences)):
-            for j in range(i + 1, len(occurrences)):
-                if occurrences[i] == occurrences[j]:
+        occurences = list(int_count.values())
+        for i in range(len(occurences)):
+            for j in range(i + 1, len(occurences)):
+                if occurences[i] == occurences[j]:
                     return False
         return True
