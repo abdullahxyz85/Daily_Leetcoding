@@ -6,20 +6,20 @@ class Solution:
             ".--", "-..-", "-.--", "--.."
         ]
         alphabet = "abcdefghijklmnopqrstuvwxyz"
-        morse_words = []  # List to store Morse code translations of words
-        unique_morse = []  # List to store unique Morse code representations
+        morse_words = []  
+        unique_morse = [] 
         
         for word in words:
-            morse_representation = ""  # To build the Morse code for the current word
+            morse_representation = "" 
             for char in word:
-                morse_representation += morse_code[alphabet.index(char)]  # Convert char to Morse
-            morse_words.append(morse_representation)  # Add Morse code of the word to the list
+                morse_representation += morse_code[alphabet.index(char)]  
+            morse_words.append(morse_representation)  
         
         for morse_word in morse_words:
-            if morse_word not in unique_morse:  # Check if it's a unique representation
+            if morse_word not in unique_morse: 
                 unique_morse.append(morse_word)
         
-        return len(unique_morse)  # Return the count of unique representations
+        return len(unique_morse) 
 
 
 
