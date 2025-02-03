@@ -1,7 +1,6 @@
 class Solution:
     def reverseOnlyLetters(self, s: str) -> str:
         alphabets = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ"
-        res = []
         s = list(s)
         i,j = 0, len(s) - 1
         while i<j:
