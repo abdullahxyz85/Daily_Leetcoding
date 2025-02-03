@@ -1,5 +1,3 @@
-from typing import List
-
 class Solution:
     def longestMonotonicSubarray(self, nums: List[int]) -> int:
         increase_len = 1  # Track length of increasing subarray
