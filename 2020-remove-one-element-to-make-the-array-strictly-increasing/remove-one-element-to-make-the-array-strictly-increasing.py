@@ -1,8 +1,8 @@
 class Solution:
     def canBeIncreasing(self, nums):
-        def is_strictly_increasing(nums):
-            for i in range(1, len(nums)):
-                if nums[i - 1] >= nums[i]:  
+        def is_strictly_increasing(arr):
+            for i in range(1, len(arr)):
+                if arr[i - 1] >= arr[i]:  
                     return False
             return True  
 
