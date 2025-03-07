@@ -1,6 +1,6 @@
 class Solution:
     def isLongPressedName(self, name: str, typed: str) -> bool:
-        i, j = 0, 0  # Pointers for name and typed
+        i, j = 0, 0 
         
         while j < len(typed):
             if i < len(name) and name[i] == typed[j]:  
