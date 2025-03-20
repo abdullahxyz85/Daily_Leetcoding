@@ -8,12 +8,12 @@
         
 class Solution:
     def checkIfExist(self, arr: List[int]) -> bool:
-        dict={}
+        dict=[] 
 
         for i in range (len(arr)):
             n=arr[i]
             if n*2 in dict or n/2 in dict:
                 return True
             else:
-                dict[n]=i
+                dict.append(n)
         return False
