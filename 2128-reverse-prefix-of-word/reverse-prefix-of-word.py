@@ -18,3 +18,15 @@ class Solution:
             right -= 1
         
         return "".join(word_list)
+
+# class Solution:
+#     def reversePrefix(self, word: str, ch: str) -> str:
+#         output = []
+#         if ch not in word:
+#             return "".join(word)
+#         for i in word:
+#             if i == ch:
+#                output.reverse()
+#             else:
+#                 output.append(i)
+#         return 
