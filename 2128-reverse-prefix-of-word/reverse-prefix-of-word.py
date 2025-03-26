@@ -1,10 +1,10 @@
 class Solution:
     def reversePrefix(self, word: str, ch: str) -> str:
-        word_list = list(word)
+        word_list = list(word)  #word = "abcdefd", ch = "d" Output: "dcbaefd"  ["a", "b", "c", "d", "e", "f", "h"]
         
         index = -1
         for i in range(len(word_list)):
-            if word_list[i] == ch:
+            if word_list[i] == ch: 
                 index = i
                 break
         
