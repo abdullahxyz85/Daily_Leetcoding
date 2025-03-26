@@ -1,10 +1,10 @@
 class Solution:
     def alternateDigitSum(self, n: int) -> int:
-        n_list = list(str(n))
+        n = list(str(n))
         sum = 0
-        for i in range(len(n_list)):
+        for i in range(len(n)):
             if i % 2 == 0:
-                sum += int(n_list[i])
+                sum += int((n[i]))
             else:
-                sum -= int(n_list[i])
+                sum -= int((n[i]))
         return sum
