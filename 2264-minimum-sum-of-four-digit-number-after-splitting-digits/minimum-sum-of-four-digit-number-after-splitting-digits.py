@@ -10,8 +10,8 @@ class Solution:
 
         digits = []
         str_num = str(num)
-        for i in str_num:
-            digits.append(int(i))
+        for i in range(len(str_num)):
+            digits.append(int(str_num[i]))
 
 
         digits.sort()
