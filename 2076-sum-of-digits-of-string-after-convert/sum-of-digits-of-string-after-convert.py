@@ -6,12 +6,10 @@ class Solution:
             'r': 18, 's': 19, 't': 20, 'u': 21, 'v': 22, 'w': 23, 'x': 24, 'y': 25, 'z': 26
         }
 
-        # Convert string to number using dictionary
         num_str = ""
         for ch in s:
             num_str += str(alphabet_values[ch])
 
-        # Step 2: Sum the digits k times
         while k > 0:
             sum_digits = 0
             for digit in num_str:
