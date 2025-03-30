@@ -1,7 +1,8 @@
 class Solution:
     def countEven(self, num: int) -> int:
         count = 0
-        for i in range(1, num+1):
+        for i in range(1, num+1):                                           #324: 324 % 10 = 4
+                                                                            #324: 324 // 10 = 32
             digit_sum = 0
             temp = i
             while temp  > 0:
