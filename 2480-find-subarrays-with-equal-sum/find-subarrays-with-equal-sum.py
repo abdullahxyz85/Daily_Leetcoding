@@ -12,5 +12,7 @@ class Solution:
         return False
 
     #[4, 2, 4]
+
     #i = 1
+    
     # nums[1] + nums[1 + 1] 2 + 4 = 6
