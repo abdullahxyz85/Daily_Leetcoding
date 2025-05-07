@@ -42,4 +42,12 @@
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0561-array-partition) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
