@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0011-container-with-most-water) |
+| [0125-valid-palindrome](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0125-valid-palindrome) |
 ## Greedy
 |  |
 | ------- |
@@ -47,6 +48,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0014-longest-common-prefix) |
+| [0125-valid-palindrome](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0125-valid-palindrome) |
 ## Trie
 |  |
 | ------- |
