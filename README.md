@@ -26,6 +26,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0231-power-of-two) |
+| [0504-base-7](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0504-base-7) |
 ## Bit Manipulation
 |  |
 | ------- |
