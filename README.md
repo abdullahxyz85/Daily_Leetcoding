@@ -9,6 +9,7 @@
 | [0001-two-sum](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0011-container-with-most-water) |
 | [0561-array-partition](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0561-array-partition) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Two Pointers
 |  |
 | ------- |
@@ -25,6 +26,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0202-happy-number) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Math
 |  |
 | ------- |
