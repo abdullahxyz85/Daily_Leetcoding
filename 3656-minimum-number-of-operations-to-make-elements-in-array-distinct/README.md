@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/minimum-number-of-operations-to-make-elements-in-array-distinct">Minimum Number of Operations to Make Elements in Array Distinct</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You are given an integer array <code>nums</code>. You need to ensure that the elements in the array are <strong>distinct</strong>. To achieve this, you can perform the following operation any number of times:</p>
+<h2><a href="https://leetcode.com/problems/minimum-number-of-operations-to-make-elements-in-array-distinct/">3656. Minimum Number of Operations to Make Elements in Array Distinct</a></h2><h3>Easy</h3><hr><p>You are given an integer array <code>nums</code>. You need to ensure that the elements in the array are <strong>distinct</strong>. To achieve this, you can perform the following operation any number of times:</p>
 
 <ul>
 	<li>Remove 3 elements from the beginning of the array. If the array has fewer than 3 elements, remove all remaining elements.</li>
