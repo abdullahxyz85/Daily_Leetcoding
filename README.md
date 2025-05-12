@@ -9,6 +9,7 @@
 | [0001-two-sum](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0011-container-with-most-water) |
 | [0349-intersection-of-two-arrays](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0561-array-partition](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0628-maximum-product-of-three-numbers) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -19,6 +20,7 @@
 | [0125-valid-palindrome](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -31,6 +33,7 @@
 | [0202-happy-number](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0205-isomorphic-strings) |
 | [0349-intersection-of-two-arrays](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0350-intersection-of-two-arrays-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Math
 |  |
@@ -51,6 +54,7 @@
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0561-array-partition](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0628-maximum-product-of-three-numbers) |
 ## Counting Sort
@@ -71,4 +75,5 @@
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
