@@ -1,9 +1,8 @@
 from typing import List
 
 import sys
-
-# Increase max digit limit for string-to-int conversion
 sys.set_int_max_str_digits(1000000)
+
 class Solution:
     def addToArrayForm(self, num: List[int], k: int) -> List[int]:
         result = []
