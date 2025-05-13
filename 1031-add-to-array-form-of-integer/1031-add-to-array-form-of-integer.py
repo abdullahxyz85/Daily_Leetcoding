@@ -10,10 +10,10 @@ class Solution:
         for i in num:
             i = str(i)
             nums_str.append(i)
-        final_str = "".join(nums_str)
+        final_str = "".join(nums_str) 
 
-        sum_of_numbers = int(final_str) + k
-        str_sum_of_numbers = str(sum_of_numbers)
+        sum_of_numbers = int(final_str) + k  
+        str_sum_of_numbers = str(sum_of_numbers) 
         for i in str_sum_of_numbers:
             result.append(int(i))
         return result
