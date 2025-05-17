@@ -14,6 +14,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0628-maximum-product-of-three-numbers) |
 | [0958-sort-array-by-parity-ii](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0958-sort-array-by-parity-ii) |
 | [1031-add-to-array-form-of-integer](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1031-add-to-array-form-of-integer) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1741-sort-array-by-increasing-frequency) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Two Pointers
 |  |
@@ -37,6 +38,7 @@
 | [0205-isomorphic-strings](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0205-isomorphic-strings) |
 | [0349-intersection-of-two-arrays](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1741-sort-array-by-increasing-frequency) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Math
 |  |
@@ -62,6 +64,7 @@
 | [0561-array-partition](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0628-maximum-product-of-three-numbers) |
 | [0958-sort-array-by-parity-ii](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0958-sort-array-by-parity-ii) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Counting Sort
 |  |
 | ------- |
