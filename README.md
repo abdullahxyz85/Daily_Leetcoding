@@ -12,6 +12,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0561-array-partition](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0628-maximum-product-of-three-numbers) |
+| [0932-monotonic-array](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0932-monotonic-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0958-sort-array-by-parity-ii) |
 | [1031-add-to-array-form-of-integer](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1031-add-to-array-form-of-integer) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1741-sort-array-by-increasing-frequency) |
