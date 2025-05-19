@@ -77,6 +77,7 @@
 | [0125-valid-palindrome](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0205-isomorphic-strings) |
 | [1666-make-the-string-great](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1666-make-the-string-great) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Trie
 |  |
 | ------- |
@@ -90,4 +91,9 @@
 |  |
 | ------- |
 | [1666-make-the-string-great](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1666-make-the-string-great) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/2800-minimum-string-length-after-removing-substrings) |
+## Simulation
+|  |
+| ------- |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/2800-minimum-string-length-after-removing-substrings) |
 <!---LeetCode Topics End-->
