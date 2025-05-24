@@ -12,6 +12,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0561-array-partition](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0643-maximum-average-subarray-i) |
 | [0932-monotonic-array](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0932-monotonic-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0958-sort-array-by-parity-ii) |
 | [1031-add-to-array-form-of-integer](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1031-add-to-array-form-of-integer) |
@@ -100,4 +101,8 @@
 | ------- |
 | [1505-create-target-array-in-the-given-order](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1505-create-target-array-in-the-given-order) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/2800-minimum-string-length-after-removing-substrings) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
