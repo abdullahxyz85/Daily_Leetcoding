@@ -4,7 +4,6 @@ class Solution:
 
         for i in range(len(number)):
             if number[i] == digit:
-                # Build new string manually without using slicing
                 new_number = ""
                 for j in range(len(number)):
                     if j != i:
