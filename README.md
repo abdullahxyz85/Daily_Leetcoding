@@ -18,6 +18,7 @@
 | [1031-add-to-array-form-of-integer](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1031-add-to-array-form-of-integer) |
 | [1505-create-target-array-in-the-given-order](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1505-create-target-array-in-the-given-order) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2421-maximum-number-of-pairs-in-array](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
@@ -44,6 +45,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2421-maximum-number-of-pairs-in-array](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Math
 |  |
@@ -75,6 +77,7 @@
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0561-array-partition) |
+| [2421-maximum-number-of-pairs-in-array](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/2421-maximum-number-of-pairs-in-array) |
 ## String
 |  |
 | ------- |
