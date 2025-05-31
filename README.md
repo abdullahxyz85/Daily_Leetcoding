@@ -57,6 +57,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0628-maximum-product-of-three-numbers) |
 | [1031-add-to-array-form-of-integer](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1031-add-to-array-form-of-integer) |
 | [2752-sum-multiples](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/2752-sum-multiples) |
+| [3859-maximum-product-of-two-digits](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/3859-maximum-product-of-two-digits) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Bit Manipulation
 |  |
@@ -76,6 +77,7 @@
 | [0958-sort-array-by-parity-ii](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0958-sort-array-by-parity-ii) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2836-neither-minimum-nor-maximum](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/2836-neither-minimum-nor-maximum) |
+| [3859-maximum-product-of-two-digits](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/3859-maximum-product-of-two-digits) |
 ## Counting Sort
 |  |
 | ------- |
