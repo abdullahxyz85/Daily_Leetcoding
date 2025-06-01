@@ -4,32 +4,27 @@ class Solution:
         odd_Num = []
         even_Num = []
 
-        # Count the frequency of each character
         for char in s:
             if char in freq:
                 freq[char] += 1
             else:
                 freq[char] = 1
 
-        # Separate frequencies into odd and even lists
         for count in freq.values():
             if count % 2 == 0:
                 even_Num.append(count)
             else:
                 odd_Num.append(count)
 
-        # If there is no odd or even frequency, return -1
-        if not odd_Num or not even_Num:
+        if len(odd_Num) == 0 or len(even_Num) == 0:
             return -1
 
-        # Initialize max_diff to a very small number
-        max_diff = -1000  # You can use any small number here
+        max_diff = -1000  
 
-        # Loop through all odd and even frequencies
         for odd in odd_Num:
             for even in even_Num:
-                diff = odd - even  # Calculate the difference
+                diff = odd - even  
                 if diff > max_diff:
-                    max_diff = diff  # Update if we find a bigger difference
+                    max_diff = diff  
 
         return max_diff
