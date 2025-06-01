@@ -57,6 +57,7 @@
 | [0504-base-7](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0504-base-7) |
 | [0628-maximum-product-of-three-numbers](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0628-maximum-product-of-three-numbers) |
 | [1031-add-to-array-form-of-integer](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1031-add-to-array-form-of-integer) |
+| [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2752-sum-multiples](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/2752-sum-multiples) |
 | [3859-maximum-product-of-two-digits](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/3859-maximum-product-of-two-digits) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
