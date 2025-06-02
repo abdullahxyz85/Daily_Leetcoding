@@ -23,6 +23,7 @@
 | [2421-maximum-number-of-pairs-in-array](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2836-neither-minimum-nor-maximum](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/2836-neither-minimum-nor-maximum) |
 | [3324-split-the-array](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/3324-split-the-array) |
+| [3367-find-the-sum-of-encrypted-integers](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
@@ -66,6 +67,7 @@
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1635-number-of-good-pairs](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1635-number-of-good-pairs) |
 | [2752-sum-multiples](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/2752-sum-multiples) |
+| [3367-find-the-sum-of-encrypted-integers](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3830-find-closest-person](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/3830-find-closest-person) |
 | [3859-maximum-product-of-two-digits](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/3859-maximum-product-of-two-digits) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
