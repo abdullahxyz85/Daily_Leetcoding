@@ -22,6 +22,7 @@
 | [2190-count-common-words-with-one-occurrence](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2836-neither-minimum-nor-maximum](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/2836-neither-minimum-nor-maximum) |
+| [3324-split-the-array](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/3324-split-the-array) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
@@ -51,6 +52,7 @@
 | [1741-sort-array-by-increasing-frequency](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/2421-maximum-number-of-pairs-in-array) |
+| [3324-split-the-array](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/3324-split-the-array) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Math
@@ -93,6 +95,7 @@
 | [1635-number-of-good-pairs](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1635-number-of-good-pairs) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/2421-maximum-number-of-pairs-in-array) |
+| [3324-split-the-array](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/3324-split-the-array) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## String
 |  |
