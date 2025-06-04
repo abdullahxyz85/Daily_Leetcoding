@@ -51,6 +51,7 @@
 | [0205-isomorphic-strings](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0205-isomorphic-strings) |
 | [0349-intersection-of-two-arrays](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0652-find-duplicate-subtrees](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0652-find-duplicate-subtrees) |
 | [1635-number-of-good-pairs](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1635-number-of-good-pairs) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/2190-count-common-words-with-one-occurrence) |
@@ -147,4 +148,16 @@
 |  |
 | ------- |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+## Tree
+|  |
+| ------- |
+| [0652-find-duplicate-subtrees](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0652-find-duplicate-subtrees) |
+## Depth-First Search
+|  |
+| ------- |
+| [0652-find-duplicate-subtrees](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0652-find-duplicate-subtrees) |
+## Binary Tree
+|  |
+| ------- |
+| [0652-find-duplicate-subtrees](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0652-find-duplicate-subtrees) |
 <!---LeetCode Topics End-->
