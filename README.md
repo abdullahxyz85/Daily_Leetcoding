@@ -23,6 +23,7 @@
 | [1741-sort-array-by-increasing-frequency](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/2421-maximum-number-of-pairs-in-array) |
+| [2767-maximum-sum-with-exactly-k-elements](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2836-neither-minimum-nor-maximum](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/2836-neither-minimum-nor-maximum) |
 | [3324-split-the-array](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/3324-split-the-array) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/3367-find-the-sum-of-encrypted-integers) |
@@ -44,6 +45,7 @@
 | [0561-array-partition](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0561-array-partition) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+| [2767-maximum-sum-with-exactly-k-elements](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 ## Hash Table
 |  |
 | ------- |
