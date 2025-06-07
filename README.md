@@ -122,6 +122,7 @@
 | [2190-count-common-words-with-one-occurrence](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3468-find-the-encrypted-string](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/3468-find-the-encrypted-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Trie
 |  |
