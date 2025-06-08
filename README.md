@@ -8,6 +8,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0011-container-with-most-water) |
+| [0066-plus-one](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0066-plus-one) |
 | [0349-intersection-of-two-arrays](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0561-array-partition](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0561-array-partition) |
@@ -66,6 +67,7 @@
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0231-power-of-two) |
 | [0504-base-7](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0504-base-7) |
