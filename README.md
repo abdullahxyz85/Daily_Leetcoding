@@ -20,6 +20,7 @@
 | [0944-smallest-range-i](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0944-smallest-range-i) |
 | [0958-sort-array-by-parity-ii](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0958-sort-array-by-parity-ii) |
 | [1031-add-to-array-form-of-integer](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1031-add-to-array-form-of-integer) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1217-relative-sort-array](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1217-relative-sort-array) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1505-create-target-array-in-the-given-order](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1505-create-target-array-in-the-given-order) |
@@ -63,6 +64,7 @@
 | [0383-ransom-note](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0383-ransom-note) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0652-find-duplicate-subtrees](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0652-find-duplicate-subtrees) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1217-relative-sort-array](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1217-relative-sort-array) |
 | [1635-number-of-good-pairs](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1635-number-of-good-pairs) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -118,6 +120,7 @@
 | ------- |
 | [0383-ransom-note](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0383-ransom-note) |
 | [0561-array-partition](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0561-array-partition) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1217-relative-sort-array](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1217-relative-sort-array) |
 | [1635-number-of-good-pairs](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1635-number-of-good-pairs) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/2190-count-common-words-with-one-occurrence) |
@@ -132,6 +135,7 @@
 | [0125-valid-palindrome](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0383-ransom-note) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1666-make-the-string-great](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1666-make-the-string-great) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/2337-remove-digit-from-number-to-maximize-result) |
