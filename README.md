@@ -27,6 +27,7 @@
 | [1635-number-of-good-pairs](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1635-number-of-good-pairs) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2836-neither-minimum-nor-maximum](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/2836-neither-minimum-nor-maximum) |
@@ -45,6 +46,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0958-sort-array-by-parity-ii](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0958-sort-array-by-parity-ii) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Greedy
 |  |
 | ------- |
@@ -161,6 +163,7 @@
 |  |
 | ------- |
 | [1505-create-target-array-in-the-given-order](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1505-create-target-array-in-the-given-order) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3226-minimum-number-game](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/3226-minimum-number-game) |
 ## Sliding Window
