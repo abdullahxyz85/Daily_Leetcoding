@@ -23,6 +23,7 @@
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1217-relative-sort-array](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1217-relative-sort-array) |
 | [1293-three-consecutive-odds](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1293-three-consecutive-odds) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1505-create-target-array-in-the-given-order](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1505-create-target-array-in-the-given-order) |
 | [1635-number-of-good-pairs](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1635-number-of-good-pairs) |
@@ -89,6 +90,7 @@
 | [1031-add-to-array-form-of-integer](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1031-add-to-array-form-of-integer) |
 | [1279-prime-arrangements](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1279-prime-arrangements) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1635-number-of-good-pairs](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1635-number-of-good-pairs) |
 | [2752-sum-multiples](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/2752-sum-multiples) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/3172-divisible-and-non-divisible-sums-difference) |
