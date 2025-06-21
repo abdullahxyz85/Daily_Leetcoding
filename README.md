@@ -81,6 +81,7 @@
 | [0066-plus-one](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0231-power-of-two) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0504-base-7](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0504-base-7) |
 | [0628-maximum-product-of-three-numbers](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0628-maximum-product-of-three-numbers) |
 | [0944-smallest-range-i](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0944-smallest-range-i) |
@@ -98,6 +99,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0231-power-of-two) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Recursion
 |  |
 | ------- |
