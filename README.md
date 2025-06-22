@@ -16,6 +16,7 @@
 | [0561-array-partition](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0643-maximum-average-subarray-i) |
+| [0724-find-pivot-index](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0724-find-pivot-index) |
 | [0932-monotonic-array](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0932-monotonic-array) |
 | [0944-smallest-range-i](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0944-smallest-range-i) |
 | [0958-sort-array-by-parity-ii](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0958-sort-array-by-parity-ii) |
@@ -196,4 +197,8 @@
 |  |
 | ------- |
 | [0652-find-duplicate-subtrees](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0652-find-duplicate-subtrees) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
