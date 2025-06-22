@@ -17,6 +17,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0724-find-pivot-index) |
+| [0824-number-of-lines-to-write-string](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0824-number-of-lines-to-write-string) |
 | [0932-monotonic-array](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0932-monotonic-array) |
 | [0944-smallest-range-i](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0944-smallest-range-i) |
 | [0958-sort-array-by-parity-ii](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0958-sort-array-by-parity-ii) |
@@ -143,6 +144,7 @@
 | [0125-valid-palindrome](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0383-ransom-note) |
+| [0824-number-of-lines-to-write-string](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0824-number-of-lines-to-write-string) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1666-make-the-string-great](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1666-make-the-string-great) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/2190-count-common-words-with-one-occurrence) |
