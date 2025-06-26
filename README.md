@@ -8,6 +8,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0011-container-with-most-water) |
+| [0035-search-insert-position](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0349-intersection-of-two-arrays) |
@@ -160,6 +161,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0035-search-insert-position) |
 | [0349-intersection-of-two-arrays](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Stack
