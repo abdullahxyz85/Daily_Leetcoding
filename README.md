@@ -149,6 +149,7 @@
 | [0383-ransom-note](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0392-is-subsequence) |
 | [0434-number-of-segments-in-a-string](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0434-number-of-segments-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0459-repeated-substring-pattern) |
 | [0824-number-of-lines-to-write-string](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0824-number-of-lines-to-write-string) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1666-make-the-string-great](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1666-make-the-string-great) |
@@ -214,4 +215,8 @@
 | ------- |
 | [0392-is-subsequence](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0392-is-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0747-min-cost-climbing-stairs) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
