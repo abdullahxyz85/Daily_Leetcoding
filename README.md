@@ -52,6 +52,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0392-is-subsequence) |
+| [0541-reverse-string-ii](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0541-reverse-string-ii) |
 | [0958-sort-array-by-parity-ii](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0958-sort-array-by-parity-ii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Greedy
@@ -150,6 +151,7 @@
 | [0392-is-subsequence](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0392-is-subsequence) |
 | [0434-number-of-segments-in-a-string](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0434-number-of-segments-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0459-repeated-substring-pattern) |
+| [0541-reverse-string-ii](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0541-reverse-string-ii) |
 | [0824-number-of-lines-to-write-string](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0824-number-of-lines-to-write-string) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1666-make-the-string-great](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1666-make-the-string-great) |
