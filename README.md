@@ -51,6 +51,7 @@
 | [0202-happy-number](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0392-is-subsequence) |
 | [0958-sort-array-by-parity-ii](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0958-sort-array-by-parity-ii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Greedy
@@ -146,6 +147,7 @@
 | [0125-valid-palindrome](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0392-is-subsequence) |
 | [0824-number-of-lines-to-write-string](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0824-number-of-lines-to-write-string) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1666-make-the-string-great](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1666-make-the-string-great) |
@@ -209,5 +211,6 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0392-is-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0747-min-cost-climbing-stairs) |
 <!---LeetCode Topics End-->
