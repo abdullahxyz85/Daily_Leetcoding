@@ -11,6 +11,7 @@
 | [0035-search-insert-position](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0088-merge-sorted-array) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0349-intersection-of-two-arrays](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -88,6 +89,7 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0066-plus-one) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0231-power-of-two) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -178,6 +180,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1666-make-the-string-great](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1666-make-the-string-great) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Simulation
