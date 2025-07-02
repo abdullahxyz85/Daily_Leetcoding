@@ -115,6 +115,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0231-power-of-two) |
 ## Sorting
 |  |
@@ -228,4 +229,8 @@
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0459-repeated-substring-pattern) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
