@@ -49,6 +49,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0011-container-with-most-water) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0202-happy-number) |
@@ -155,6 +156,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0383-ransom-note) |
@@ -235,6 +237,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0459-repeated-substring-pattern) |
 ## Linked List
 |  |
