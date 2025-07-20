@@ -35,6 +35,7 @@
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1635-number-of-good-pairs) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/2421-maximum-number-of-pairs-in-array) |
@@ -171,6 +172,7 @@
 | [1341-split-a-string-in-balanced-strings](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1542-consecutive-characters](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1542-consecutive-characters) |
 | [1666-make-the-string-great](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1666-make-the-string-great) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/2800-minimum-string-length-after-removing-substrings) |
