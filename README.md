@@ -106,6 +106,7 @@
 | [1279-prime-arrangements](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1279-prime-arrangements) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1635-number-of-good-pairs](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1635-number-of-good-pairs) |
 | [2752-sum-multiples](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/2752-sum-multiples) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -118,6 +119,7 @@
 | ------- |
 | [0231-power-of-two](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0231-power-of-two) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Recursion
 |  |
 | ------- |
