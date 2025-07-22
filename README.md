@@ -171,6 +171,7 @@
 | [1156-occurrences-after-bigram](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1156-occurrences-after-bigram) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
 | [1542-consecutive-characters](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1542-consecutive-characters) |
 | [1666-make-the-string-great](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1666-make-the-string-great) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
