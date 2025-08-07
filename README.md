@@ -46,6 +46,7 @@ Contributions to Daily_Leetcoding are welcome! If you have a solution to a LeetC
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0001-two-sum) |
+| [0643-maximum-average-subarray-i](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0643-maximum-average-subarray-i) |
 | [0861-flipping-an-image](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0861-flipping-an-image) |
 | [1217-relative-sort-array](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1217-relative-sort-array) |
 | [1306-minimum-absolute-difference](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1306-minimum-absolute-difference) |
@@ -94,4 +95,8 @@ Contributions to Daily_Leetcoding are welcome! If you have a solution to a LeetC
 |  |
 | ------- |
 | [1610-xor-operation-in-an-array](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1610-xor-operation-in-an-array) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
