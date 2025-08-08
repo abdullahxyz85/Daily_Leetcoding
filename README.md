@@ -95,6 +95,7 @@ Contributions to Daily_Leetcoding are welcome! If you have a solution to a LeetC
 |  |
 | ------- |
 | [1610-xor-operation-in-an-array](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1610-xor-operation-in-an-array) |
+| [1630-count-odd-numbers-in-an-interval-range](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 ## Sliding Window
 |  |
 | ------- |
