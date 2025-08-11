@@ -96,8 +96,17 @@ Contributions to Daily_Leetcoding are welcome! If you have a solution to a LeetC
 | ------- |
 | [1610-xor-operation-in-an-array](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1610-xor-operation-in-an-array) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1630-count-odd-numbers-in-an-interval-range) |
+| [2507-number-of-common-factors](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/2507-number-of-common-factors) |
 ## Sliding Window
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0643-maximum-average-subarray-i) |
+## Enumeration
+|  |
+| ------- |
+| [2507-number-of-common-factors](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/2507-number-of-common-factors) |
+## Number Theory
+|  |
+| ------- |
+| [2507-number-of-common-factors](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/2507-number-of-common-factors) |
 <!---LeetCode Topics End-->
