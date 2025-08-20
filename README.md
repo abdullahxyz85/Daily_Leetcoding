@@ -40,6 +40,51 @@ Contributions to Daily_Leetcoding are welcome! If you have a solution to a LeetC
 - Provide a clear explanation of the solution approach.
 - Use descriptive commit messages and follow the existing directory structure.
 
+## GitHub Communication & Collaboration
+
+### Can you message other people via GitHub?
+
+While GitHub doesn't have a traditional direct messaging system like social media platforms, there are several ways to communicate and collaborate with other developers:
+
+#### Available Communication Methods:
+
+1. **Issues** 📝
+   - Open issues to ask questions about specific problems or solutions
+   - Discuss algorithm approaches and optimizations
+   - Report bugs or suggest improvements
+   - Tag other users with `@username` to get their attention
+
+2. **Pull Request Comments** 💬
+   - Comment on specific lines of code during reviews
+   - Suggest improvements to solutions
+   - Discuss implementation details
+   - Collaborate on better approaches
+
+3. **Repository Discussions** 🗣️
+   - If enabled, use GitHub Discussions for broader conversations
+   - Share learning experiences and insights
+   - Ask for help with challenging problems
+
+4. **Comments on Commits** 📋
+   - Comment on specific commits to discuss changes
+   - Provide feedback on solution implementations
+
+#### Best Practices for Communication:
+
+- **Be Respectful**: Always maintain a professional and helpful tone
+- **Be Specific**: When asking questions, provide context and specific problem details
+- **Use @ Mentions**: Tag relevant contributors with `@username` for direct attention
+- **Search First**: Check if your question has already been answered in existing issues
+
+#### Getting Help with LeetCode Problems:
+
+1. Open an issue with the problem number and your specific question
+2. Include your current approach and where you're stuck
+3. Tag active contributors who might help: `@username`
+4. Check the repository's existing solutions for similar problems
+
+Remember: GitHub's collaboration features are designed to foster learning and knowledge sharing in the coding community!
+
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
