@@ -58,6 +58,7 @@ Contributions to Daily_Leetcoding are welcome! If you have a solution to a LeetC
 | [0001-two-sum](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0001-two-sum) |
 | [0525-contiguous-array](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0525-contiguous-array) |
 | [1217-relative-sort-array](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1217-relative-sort-array) |
+| [2532-remove-letter-to-equalize-frequency](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/2532-remove-letter-to-equalize-frequency) |
 ## Sorting
 |  |
 | ------- |
@@ -67,6 +68,7 @@ Contributions to Daily_Leetcoding are welcome! If you have a solution to a LeetC
 |  |
 | ------- |
 | [1217-relative-sort-array](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1217-relative-sort-array) |
+| [2532-remove-letter-to-equalize-frequency](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/2532-remove-letter-to-equalize-frequency) |
 ## Linked List
 |  |
 | ------- |
@@ -117,4 +119,8 @@ Contributions to Daily_Leetcoding are welcome! If you have a solution to a LeetC
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0525-contiguous-array) |
+## String
+|  |
+| ------- |
+| [2532-remove-letter-to-equalize-frequency](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/2532-remove-letter-to-equalize-frequency) |
 <!---LeetCode Topics End-->
