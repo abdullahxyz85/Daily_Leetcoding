@@ -53,6 +53,7 @@ Contributions to Daily_Leetcoding are welcome! If you have a solution to a LeetC
 | [1306-minimum-absolute-difference](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1306-minimum-absolute-difference) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1839-decode-xored-array](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1839-decode-xored-array) |
+| [2737-row-with-maximum-ones](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/2737-row-with-maximum-ones) |
 ## Hash Table
 |  |
 | ------- |
@@ -94,6 +95,7 @@ Contributions to Daily_Leetcoding are welcome! If you have a solution to a LeetC
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0861-flipping-an-image) |
+| [2737-row-with-maximum-ones](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/2737-row-with-maximum-ones) |
 ## Simulation
 |  |
 | ------- |
