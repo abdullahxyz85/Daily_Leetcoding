@@ -64,6 +64,7 @@ Contributions to Daily_Leetcoding are welcome! If you have a solution to a LeetC
 | ------- |
 | [0001-two-sum](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0001-two-sum) |
 | [0525-contiguous-array](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0525-contiguous-array) |
+| [0889-buddy-strings](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0889-buddy-strings) |
 | [1217-relative-sort-array](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1217-relative-sort-array) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/2532-remove-letter-to-equalize-frequency) |
@@ -144,5 +145,6 @@ Contributions to Daily_Leetcoding are welcome! If you have a solution to a LeetC
 |  |
 | ------- |
 | [0824-number-of-lines-to-write-string](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0824-number-of-lines-to-write-string) |
+| [0889-buddy-strings](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0889-buddy-strings) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/2532-remove-letter-to-equalize-frequency) |
 <!---LeetCode Topics End-->
