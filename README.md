@@ -153,4 +153,16 @@ Contributions to Daily_Leetcoding are welcome! If you have a solution to a LeetC
 | [0841-shortest-distance-to-a-character](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0841-shortest-distance-to-a-character) |
 | [0889-buddy-strings](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0889-buddy-strings) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/2532-remove-letter-to-equalize-frequency) |
+## Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0783-search-in-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0783-search-in-a-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
