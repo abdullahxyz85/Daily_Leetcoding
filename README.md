@@ -89,6 +89,7 @@ Contributions to Daily_Leetcoding are welcome! If you have a solution to a LeetC
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0021-merge-two-sorted-lists) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Recursion
 |  |
 | ------- |
