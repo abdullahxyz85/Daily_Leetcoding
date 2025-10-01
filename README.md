@@ -48,6 +48,7 @@ Contributions to Daily_Leetcoding are welcome! If you have a solution to a LeetC
 | [0001-two-sum](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0137-single-number-ii](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0137-single-number-ii) |
+| [0219-contains-duplicate-ii](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0228-summary-ranges) |
 | [0525-contiguous-array](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0525-contiguous-array) |
 | [0643-maximum-average-subarray-i](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0643-maximum-average-subarray-i) |
@@ -66,6 +67,7 @@ Contributions to Daily_Leetcoding are welcome! If you have a solution to a LeetC
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0001-two-sum) |
+| [0219-contains-duplicate-ii](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0219-contains-duplicate-ii) |
 | [0525-contiguous-array](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0525-contiguous-array) |
 | [0889-buddy-strings](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0889-buddy-strings) |
 | [1217-relative-sort-array](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1217-relative-sort-array) |
@@ -130,6 +132,7 @@ Contributions to Daily_Leetcoding are welcome! If you have a solution to a LeetC
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0643-maximum-average-subarray-i) |
 ## Enumeration
 |  |
