@@ -174,4 +174,20 @@ Contributions to Daily_Leetcoding are welcome! If you have a solution to a LeetC
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0374-guess-number-higher-or-lower) |
+## Depth-First Search
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0207-course-schedule) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0207-course-schedule) |
+## Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
