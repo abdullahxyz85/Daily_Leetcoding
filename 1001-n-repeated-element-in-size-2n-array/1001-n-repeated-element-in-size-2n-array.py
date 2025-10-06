@@ -10,4 +10,4 @@ class Solution:
 
         for key, value in freq.items():
             if value > 1:     
-                return key
+                return key        
