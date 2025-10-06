@@ -122,6 +122,7 @@ Contributions to Daily_Leetcoding are welcome! If you have a solution to a LeetC
 ## Math
 |  |
 | ------- |
+| [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1610-xor-operation-in-an-array](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1610-xor-operation-in-an-array) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1965-sum-of-digits-in-base-k](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1965-sum-of-digits-in-base-k) |
