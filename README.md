@@ -166,6 +166,7 @@ Contributions to Daily_Leetcoding are welcome! If you have a solution to a LeetC
 | [0841-shortest-distance-to-a-character](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0841-shortest-distance-to-a-character) |
 | [0889-buddy-strings](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0889-buddy-strings) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1660-thousand-separator](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1660-thousand-separator) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/2532-remove-letter-to-equalize-frequency) |
 ## Tree
 |  |
