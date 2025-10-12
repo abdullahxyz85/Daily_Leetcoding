@@ -60,6 +60,7 @@ Contributions to Daily_Leetcoding are welcome! If you have a solution to a LeetC
 | [1306-minimum-absolute-difference](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1306-minimum-absolute-difference) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
+| [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1769-get-maximum-in-generated-array](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1769-get-maximum-in-generated-array) |
 | [1839-decode-xored-array](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1839-decode-xored-array) |
 | [2737-row-with-maximum-ones](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/2737-row-with-maximum-ones) |
@@ -87,6 +88,7 @@ Contributions to Daily_Leetcoding are welcome! If you have a solution to a LeetC
 | [1217-relative-sort-array](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1217-relative-sort-array) |
 | [1306-minimum-absolute-difference](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1306-minimum-absolute-difference) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
+| [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Counting Sort
 |  |
 | ------- |
@@ -181,6 +183,7 @@ Contributions to Daily_Leetcoding are welcome! If you have a solution to a LeetC
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0374-guess-number-higher-or-lower) |
 | [0783-search-in-a-binary-search-tree](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0783-search-in-a-binary-search-tree) |
+| [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Binary Tree
 |  |
 | ------- |
