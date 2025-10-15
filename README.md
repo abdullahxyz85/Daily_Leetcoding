@@ -63,6 +63,7 @@ Contributions to Daily_Leetcoding are welcome! If you have a solution to a LeetC
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1769-get-maximum-in-generated-array](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1769-get-maximum-in-generated-array) |
 | [1839-decode-xored-array](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1839-decode-xored-array) |
+| [2042-maximum-product-difference-between-two-pairs](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2737-row-with-maximum-ones](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/2737-row-with-maximum-ones) |
 | [3799-unique-3-digit-even-numbers](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/3799-unique-3-digit-even-numbers) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/3914-check-if-any-element-has-prime-frequency) |
@@ -89,6 +90,7 @@ Contributions to Daily_Leetcoding are welcome! If you have a solution to a LeetC
 | [1306-minimum-absolute-difference](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1306-minimum-absolute-difference) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
+| [2042-maximum-product-difference-between-two-pairs](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/2042-maximum-product-difference-between-two-pairs) |
 ## Counting Sort
 |  |
 | ------- |
