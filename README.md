@@ -166,6 +166,7 @@ Contributions to Daily_Leetcoding are welcome! If you have a solution to a LeetC
 ## String
 |  |
 | ------- |
+| [0521-longest-uncommon-subsequence-i](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0782-jewels-and-stones](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0782-jewels-and-stones) |
 | [0824-number-of-lines-to-write-string](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0824-number-of-lines-to-write-string) |
