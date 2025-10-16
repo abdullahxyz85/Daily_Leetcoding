@@ -47,6 +47,7 @@ Contributions to Daily_Leetcoding are welcome! If you have a solution to a LeetC
 | ------- |
 | [0001-two-sum](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0137-single-number-ii](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0137-single-number-ii) |
 | [0219-contains-duplicate-ii](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0228-summary-ranges) |
@@ -216,4 +217,8 @@ Contributions to Daily_Leetcoding are welcome! If you have a solution to a LeetC
 |  |
 | ------- |
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1858-latest-time-by-replacing-hidden-digits) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
