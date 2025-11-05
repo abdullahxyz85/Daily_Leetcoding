@@ -110,6 +110,7 @@ Contributions to Daily_Leetcoding are welcome! If you have a solution to a LeetC
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0021-merge-two-sorted-lists) |
+| [1013-fibonacci-number](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1013-fibonacci-number) |
 | [3799-unique-3-digit-even-numbers](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/3799-unique-3-digit-even-numbers) |
 ## Bit Manipulation
 |  |
@@ -138,6 +139,7 @@ Contributions to Daily_Leetcoding are welcome! If you have a solution to a LeetC
 ## Math
 |  |
 | ------- |
+| [1013-fibonacci-number](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1013-fibonacci-number) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1610-xor-operation-in-an-array](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1610-xor-operation-in-an-array) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1630-count-odd-numbers-in-an-interval-range) |
@@ -223,4 +225,9 @@ Contributions to Daily_Leetcoding are welcome! If you have a solution to a LeetC
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1013-fibonacci-number](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
