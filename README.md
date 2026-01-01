@@ -126,6 +126,7 @@ Contributions to Daily_Leetcoding are welcome! If you have a solution to a LeetC
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0841-shortest-distance-to-a-character](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0841-shortest-distance-to-a-character) |
+| [0844-backspace-string-compare](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0844-backspace-string-compare) |
 | [0861-flipping-an-image](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0861-flipping-an-image) |
 ## Matrix
 |  |
@@ -135,6 +136,7 @@ Contributions to Daily_Leetcoding are welcome! If you have a solution to a LeetC
 ## Simulation
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0844-backspace-string-compare) |
 | [0861-flipping-an-image](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0861-flipping-an-image) |
 | [1769-get-maximum-in-generated-array](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1769-get-maximum-in-generated-array) |
 ## Math
@@ -179,6 +181,7 @@ Contributions to Daily_Leetcoding are welcome! If you have a solution to a LeetC
 | [0782-jewels-and-stones](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0782-jewels-and-stones) |
 | [0824-number-of-lines-to-write-string](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0824-number-of-lines-to-write-string) |
 | [0841-shortest-distance-to-a-character](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0841-shortest-distance-to-a-character) |
+| [0844-backspace-string-compare](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0844-backspace-string-compare) |
 | [0889-buddy-strings](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0889-buddy-strings) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1660-thousand-separator](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1660-thousand-separator) |
@@ -231,4 +234,8 @@ Contributions to Daily_Leetcoding are welcome! If you have a solution to a LeetC
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1013-fibonacci-number) |
+## Stack
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
