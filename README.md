@@ -53,6 +53,7 @@ Contributions to Daily_Leetcoding are welcome! If you have a solution to a LeetC
 | [0228-summary-ranges](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0228-summary-ranges) |
 | [0525-contiguous-array](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0525-contiguous-array) |
 | [0643-maximum-average-subarray-i](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0682-baseball-game) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0824-number-of-lines-to-write-string](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0824-number-of-lines-to-write-string) |
 | [0841-shortest-distance-to-a-character](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0841-shortest-distance-to-a-character) |
@@ -136,6 +137,7 @@ Contributions to Daily_Leetcoding are welcome! If you have a solution to a LeetC
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0844-backspace-string-compare) |
 | [0861-flipping-an-image](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0861-flipping-an-image) |
 | [1769-get-maximum-in-generated-array](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1769-get-maximum-in-generated-array) |
@@ -237,5 +239,6 @@ Contributions to Daily_Leetcoding are welcome! If you have a solution to a LeetC
 ## Stack
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
