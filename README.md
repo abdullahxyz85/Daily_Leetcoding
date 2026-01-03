@@ -58,6 +58,7 @@ Contributions to Daily_Leetcoding are welcome! If you have a solution to a LeetC
 | [0824-number-of-lines-to-write-string](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0824-number-of-lines-to-write-string) |
 | [0841-shortest-distance-to-a-character](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0841-shortest-distance-to-a-character) |
 | [0861-flipping-an-image](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0861-flipping-an-image) |
+| [0942-di-string-match](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0942-di-string-match) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1217-relative-sort-array](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1217-relative-sort-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
@@ -129,6 +130,7 @@ Contributions to Daily_Leetcoding are welcome! If you have a solution to a LeetC
 | [0841-shortest-distance-to-a-character](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0841-shortest-distance-to-a-character) |
 | [0844-backspace-string-compare](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0844-backspace-string-compare) |
 | [0861-flipping-an-image](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0861-flipping-an-image) |
+| [0942-di-string-match](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0942-di-string-match) |
 ## Matrix
 |  |
 | ------- |
@@ -186,6 +188,7 @@ Contributions to Daily_Leetcoding are welcome! If you have a solution to a LeetC
 | [0844-backspace-string-compare](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0844-backspace-string-compare) |
 | [0889-buddy-strings](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0889-buddy-strings) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0942-di-string-match](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0942-di-string-match) |
 | [1660-thousand-separator](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1660-thousand-separator) |
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1858-latest-time-by-replacing-hidden-digits) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/2532-remove-letter-to-equalize-frequency) |
@@ -226,6 +229,7 @@ Contributions to Daily_Leetcoding are welcome! If you have a solution to a LeetC
 ## Greedy
 |  |
 | ------- |
+| [0942-di-string-match](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0942-di-string-match) |
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1858-latest-time-by-replacing-hidden-digits) |
 ## Dynamic Programming
 |  |
