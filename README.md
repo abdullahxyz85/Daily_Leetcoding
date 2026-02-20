@@ -109,10 +109,12 @@ Contributions to Daily_Leetcoding are welcome! If you have a solution to a LeetC
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0206-reverse-linked-list](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0021-merge-two-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0206-reverse-linked-list) |
 | [1013-fibonacci-number](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1013-fibonacci-number) |
 | [3799-unique-3-digit-even-numbers](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/3799-unique-3-digit-even-numbers) |
 ## Bit Manipulation
