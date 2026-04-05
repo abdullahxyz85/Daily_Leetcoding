@@ -150,6 +150,7 @@ Contributions to Daily_Leetcoding are welcome! If you have a solution to a LeetC
 ## Math
 |  |
 | ------- |
+| [0168-excel-sheet-column-title](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0168-excel-sheet-column-title) |
 | [1013-fibonacci-number](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1013-fibonacci-number) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1610-xor-operation-in-an-array](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1610-xor-operation-in-an-array) |
@@ -183,6 +184,7 @@ Contributions to Daily_Leetcoding are welcome! If you have a solution to a LeetC
 ## String
 |  |
 | ------- |
+| [0168-excel-sheet-column-title](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0168-excel-sheet-column-title) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0551-student-attendance-record-i](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0551-student-attendance-record-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0557-reverse-words-in-a-string-iii) |
