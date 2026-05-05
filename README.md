@@ -152,6 +152,7 @@ Contributions to Daily_Leetcoding are welcome! If you have a solution to a LeetC
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0007-reverse-integer) |
 | [0168-excel-sheet-column-title](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0168-excel-sheet-column-title) |
 | [0412-fizz-buzz](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1013-fibonacci-number) |
