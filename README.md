@@ -144,6 +144,7 @@ Contributions to Daily_Leetcoding are welcome! If you have a solution to a LeetC
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0844-backspace-string-compare) |
 | [0861-flipping-an-image](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0861-flipping-an-image) |
@@ -152,6 +153,7 @@ Contributions to Daily_Leetcoding are welcome! If you have a solution to a LeetC
 |  |
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0168-excel-sheet-column-title) |
+| [0412-fizz-buzz](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1013-fibonacci-number) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1610-xor-operation-in-an-array](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1610-xor-operation-in-an-array) |
@@ -186,6 +188,7 @@ Contributions to Daily_Leetcoding are welcome! If you have a solution to a LeetC
 |  |
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0168-excel-sheet-column-title) |
+| [0412-fizz-buzz](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0412-fizz-buzz) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0551-student-attendance-record-i](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0551-student-attendance-record-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0557-reverse-words-in-a-string-iii) |
