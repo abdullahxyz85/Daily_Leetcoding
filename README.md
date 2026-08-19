@@ -64,6 +64,7 @@ Contributions to Daily_Leetcoding are welcome! If you have a solution to a LeetC
 | [1217-relative-sort-array](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1217-relative-sort-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1306-minimum-absolute-difference](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1306-minimum-absolute-difference) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1672-richest-customer-wealth](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1672-richest-customer-wealth) |
@@ -141,6 +142,7 @@ Contributions to Daily_Leetcoding are welcome! If you have a solution to a LeetC
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0861-flipping-an-image) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1672-richest-customer-wealth) |
 | [2737-row-with-maximum-ones](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/2737-row-with-maximum-ones) |
 ## Simulation
@@ -214,6 +216,7 @@ Contributions to Daily_Leetcoding are welcome! If you have a solution to a LeetC
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0374-guess-number-higher-or-lower) |
 | [0783-search-in-a-binary-search-tree](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0783-search-in-a-binary-search-tree) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Binary Tree
 |  |
