@@ -46,6 +46,7 @@ Contributions to Daily_Leetcoding are welcome! If you have a solution to a LeetC
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0137-single-number-ii](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0137-single-number-ii) |
@@ -214,6 +215,7 @@ Contributions to Daily_Leetcoding are welcome! If you have a solution to a LeetC
 ## Binary Search Tree
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0004-median-of-two-sorted-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0374-guess-number-higher-or-lower) |
 | [0783-search-in-a-binary-search-tree](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0783-search-in-a-binary-search-tree) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -261,4 +263,8 @@ Contributions to Daily_Leetcoding are welcome! If you have a solution to a LeetC
 | ------- |
 | [0682-baseball-game](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0844-backspace-string-compare) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
