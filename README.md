@@ -53,6 +53,7 @@ Contributions to Daily_Leetcoding are welcome! If you have a solution to a LeetC
 | [0219-contains-duplicate-ii](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0228-summary-ranges) |
 | [0485-max-consecutive-ones](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0493-reverse-pairs) |
 | [0525-contiguous-array](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0525-contiguous-array) |
 | [0643-maximum-average-subarray-i](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0682-baseball-game) |
@@ -217,6 +218,7 @@ Contributions to Daily_Leetcoding are welcome! If you have a solution to a LeetC
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0004-median-of-two-sorted-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0374-guess-number-higher-or-lower) |
+| [0493-reverse-pairs](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0493-reverse-pairs) |
 | [0783-search-in-a-binary-search-tree](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0783-search-in-a-binary-search-tree) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -267,4 +269,25 @@ Contributions to Daily_Leetcoding are welcome! If you have a solution to a LeetC
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0004-median-of-two-sorted-arrays) |
+| [0493-reverse-pairs](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0493-reverse-pairs) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
