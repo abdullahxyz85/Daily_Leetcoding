@@ -48,6 +48,7 @@ Contributions to Daily_Leetcoding are welcome! If you have a solution to a LeetC
 | [0001-two-sum](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0054-spiral-matrix](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0054-spiral-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0137-single-number-ii](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0137-single-number-ii) |
 | [0219-contains-duplicate-ii](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0219-contains-duplicate-ii) |
@@ -144,6 +145,7 @@ Contributions to Daily_Leetcoding are welcome! If you have a solution to a LeetC
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0054-spiral-matrix) |
 | [0861-flipping-an-image](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0861-flipping-an-image) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -152,6 +154,7 @@ Contributions to Daily_Leetcoding are welcome! If you have a solution to a LeetC
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0844-backspace-string-compare) |
