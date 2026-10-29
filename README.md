@@ -217,6 +217,7 @@ Contributions to Daily_Leetcoding are welcome! If you have a solution to a LeetC
 ## Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0112-path-sum) |
 | [0783-search-in-a-binary-search-tree](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0783-search-in-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -230,6 +231,7 @@ Contributions to Daily_Leetcoding are welcome! If you have a solution to a LeetC
 ## Binary Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0112-path-sum) |
 | [0783-search-in-a-binary-search-tree](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0783-search-in-a-binary-search-tree) |
 ## Interactive
 |  |
@@ -238,10 +240,12 @@ Contributions to Daily_Leetcoding are welcome! If you have a solution to a LeetC
 ## Depth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0112-path-sum) |
 | [0207-course-schedule](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0207-course-schedule) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0112-path-sum) |
 | [0207-course-schedule](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0207-course-schedule) |
 ## Graph
 |  |
