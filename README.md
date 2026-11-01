@@ -64,6 +64,7 @@ Contributions to Daily_Leetcoding are welcome! If you have a solution to a LeetC
 | [0861-flipping-an-image](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0861-flipping-an-image) |
 | [0942-di-string-match](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0942-di-string-match) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1089-duplicate-zeros](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1089-duplicate-zeros) |
 | [1217-relative-sort-array](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1217-relative-sort-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1306-minimum-absolute-difference](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1306-minimum-absolute-difference) |
@@ -142,6 +143,7 @@ Contributions to Daily_Leetcoding are welcome! If you have a solution to a LeetC
 | [0861-flipping-an-image](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0861-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0876-middle-of-the-linked-list) |
 | [0942-di-string-match](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0942-di-string-match) |
+| [1089-duplicate-zeros](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1089-duplicate-zeros) |
 ## Matrix
 |  |
 | ------- |
