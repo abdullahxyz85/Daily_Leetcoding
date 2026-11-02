@@ -130,6 +130,7 @@ Contributions to Daily_Leetcoding are welcome! If you have a solution to a LeetC
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0137-single-number-ii) |
+| [0190-reverse-bits](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0191-number-of-1-bits) |
 | [0861-flipping-an-image](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0861-flipping-an-image) |
 | [1610-xor-operation-in-an-array](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1610-xor-operation-in-an-array) |
@@ -281,6 +282,7 @@ Contributions to Daily_Leetcoding are welcome! If you have a solution to a LeetC
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0004-median-of-two-sorted-arrays) |
+| [0190-reverse-bits](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0191-number-of-1-bits) |
 | [0493-reverse-pairs](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
