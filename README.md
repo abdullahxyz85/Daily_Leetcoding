@@ -74,6 +74,7 @@ Contributions to Daily_Leetcoding are welcome! If you have a solution to a LeetC
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1672-richest-customer-wealth](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1672-richest-customer-wealth) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1732-find-the-highest-altitude](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1732-find-the-highest-altitude) |
 | [1769-get-maximum-in-generated-array](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1769-get-maximum-in-generated-array) |
 | [1839-decode-xored-array](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1839-decode-xored-array) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/2042-maximum-product-difference-between-two-pairs) |
@@ -202,6 +203,7 @@ Contributions to Daily_Leetcoding are welcome! If you have a solution to a LeetC
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/0525-contiguous-array) |
+| [1732-find-the-highest-altitude](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1732-find-the-highest-altitude) |
 ## String
 |  |
 | ------- |
