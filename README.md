@@ -181,6 +181,7 @@ Contributions to Daily_Leetcoding are welcome! If you have a solution to a LeetC
 | [1965-sum-of-digits-in-base-k](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/1965-sum-of-digits-in-base-k) |
 | [2083-three-divisors](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/2083-three-divisors) |
 | [2507-number-of-common-factors](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/2507-number-of-common-factors) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2812-find-the-maximum-achievable-number](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/2812-find-the-maximum-achievable-number) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/abdullahxyz85/Daily_Leetcoding/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Sliding Window
